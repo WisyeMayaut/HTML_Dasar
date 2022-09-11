@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tabel Aktivitas</title>
+</head>
+<body>
+
+<table border="1" cellspacing="4" cellpadding="40">
+	<tr>
+		<td style="background-color: rgb(137, 207, 240)";>Jam (WIB)</td>
+		<td style="background-color: rgb(137, 207, 240)";>Aktivitas</td>	
+	</tr>
+
+	<tr>
+		<td>05.00</td>
+		<td>Bangun Pagi</td>
+	</tr>
+
+	<tr>
+		<td>05.15</td>
+		<td>Sarapan</td>
+	</tr>
+
+	<tr>
+		<td>05.30</td>
+		<td>Mandi</td>
+	</tr>
+
+	<tr>
+		<td>06.30</td>
+		<td>Berangkat Kampus</td>
+	</tr>
+
+	<tr>
+		<td>07.00 - 18.00</td>
+		<td>Kuliah + Makan siang</td>
+	</tr>
+
+	<tr>
+		<td>18.15</td>
+		<td>Membersihkan Kos</td>
+	</tr>
+
+	<tr>
+		<td>19.00</td>
+		<td>Mandi</td>
+	</tr>
+
+	<tr>
+		<td>20.00</td>
+		<td>Makan Malam</td>
+	</tr>
+
+	<tr>
+		<td>21.30</td>
+		<td>Mengerjakan Tugas</td>
+	</tr>
+
+	<tr>
+		<td>01.00</td>
+		<td>Refreshing (Main Game, Sosial Media)</td>
+	</tr>
+
+	<tr>
+		<td>02.00</td>
+		<td>Tidur</td>
+	</tr>
+
+</table>
+
+</body>
+</html>
