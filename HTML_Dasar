@@ -36,5 +36,35 @@
 	<li>Otw Kampus : 06.30</li>
 </ol>
 
+<hr>
+<!-- UL = Tidak terurut-->
+<h2>Menu Sarapan</h2>
+<ul>
+	<li>Roti</li>
+	<li>Susu</li>
+	<li>Burjo</li>
+	<li>Warung</li>
+</ul>
+
+<!-- Jika seperti diatas, maka defaultnya akan mnjadi bullets. Jika tidak ingin, maka menggunakan type-->
+<!-- type : disc, square, circle-->
+<!-- contoh -->
+
+<br>
+<ul type="square">
+	<li>Roti</li>
+	<li>Susu</li>
+	<li>Burjo</li>
+	<li>Warung</li>
+</ul>
+
+<br>
+<ul type="circle">
+	<li>Roti</li>
+	<li>Susu</li>
+	<li>Burjo</li>
+	<li>Warung</li>
+</ul>
+
 </body>
 </html>
